@@ -7,12 +7,12 @@ This Power BI project analyzes sales data to uncover insights into revenue trend
 The dataset includes sales transactions, customer details, product categories, order data, and financial metrics. It is used to visualize key performance indicators (KPIs) and trends affecting business growth.
 
 # Key Objectives
-✔ Identify total revenue trends across different regions.
-✔ Analyze product categories contributing the most to sales.
-✔ Track sales performance over time (monthly, quarterly, yearly).
-✔ Understand customer segments generating the highest revenue.
-✔ Examine discount trends affecting profitability.
-✔ Discover seasonal patterns impacting sales.
+### ✔ Identify total revenue trends across different regions.
+### ✔ Analyze product categories contributing the most to sales.
+### ✔ Track sales performance over time (monthly, quarterly, yearly).
+### ✔ Understand customer segments generating the highest revenue.
+### ✔ Examine discount trends affecting profitability.
+### ✔ Discover seasonal patterns impacting sales.
 
 # Data Preprocessing & Transformation
 🔹 Cleaning missing values and ensuring data consistency.
