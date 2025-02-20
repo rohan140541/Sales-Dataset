@@ -1,5 +1,4 @@
 # Sales Analysis - Power BI Project
-# (Replace with actual image link if available)
 
 Project Overview
 This Power BI project analyzes sales data to uncover insights into revenue trends, profit margins, top-selling products, regional performance, and customer segmentation. It aims to help businesses optimize sales strategies and enhance decision-making.
